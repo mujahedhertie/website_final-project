@@ -2,6 +2,7 @@
 title: "Untitled"
 author: "Md Mujahedul Islam"
 date: "18 April 2016"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
